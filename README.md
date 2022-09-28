@@ -10,5 +10,4 @@ conda install -c conda-forge matplotlib
 conda install -c plotly plotly
 conda install -c conda-forge nbformat
 pip install --upgrade nbformat
-
 ```
